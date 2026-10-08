@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "hub": "https://raw.githubusercontent.com/fisal-new/drakthontest/main/drakthon-ui.lua",
+  "spy": "https://raw.githubusercontent.com/fisal-new/drakthon-spy/main/DrakthonSpy.lua"
+}
